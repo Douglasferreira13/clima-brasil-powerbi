@@ -26,7 +26,7 @@ Dashboard em Power BI que analisa **dados climáticos diários de 2015 a 2025** 
 - **Seleção por PIB:** IBGE — PIB dos Municípios e Contas Regionais 2023
 - **Modelagem:** esquema estrela — `fClima` (fato diário) + `dCidade` e `dCalendario` (dimensões)
 - **DAX:** anomalia térmica, variação ano a ano, dias de calor/frio por ano, chuva média anual, Top N
-- **Design:** layout no estilo Figma com fundos de página customizados, tema JSON próprio e navegação por botões
+- **Design:** layout feito com figma!
 
 ## 📁 Arquivos
 
